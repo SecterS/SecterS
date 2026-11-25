@@ -4,7 +4,7 @@
 
 Здесь я собираю свои учебные проекты на C# и Go.
 
-<h3 align="center"><a href="https://github.com/SecterS#user-content-мои-проекты">Hardskills</a></h3>
+<h3 align="center">Hardskills</h3>
 
 <p align="center">
   <a href="https://github.com/SecterS#user-content-projects#gh-dark-mode-only"><img alt="C#" height="28" src="https://img.shields.io/badge/C%23-241B35?style=for-the-badge&amp;logo=dotnet&amp;logoColor=C9A7FF"></a>
@@ -23,7 +23,7 @@
   <a href="https://github.com/SecterS#user-content-projects#gh-light-mode-only"><img alt="Docker" height="28" src="https://img.shields.io/badge/Docker-5B4589?style=for-the-badge&amp;logo=docker&amp;logoColor=F4E8FF"></a>
 </p>
 
-<h3 align="center"><a href="https://github.com/SecterS#user-content-мои-проекты">Soft skills</a></h3>
+<h3 align="center">Soft skills</h3>
 
 <p align="center">
   <a href="https://github.com/SecterS#user-content-projects#gh-dark-mode-only"><img alt="Решение задач" height="28" src="https://img.shields.io/badge/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87-241B35?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNDOUE3RkYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAxOGg2bS01IDRoNG0tNS04YzAtMS0zLTItMy02YTYgNiAwIDEgMSAxMiAwYzAgNC0zIDUtMyA2Ii8%2BPC9zdmc%2B"></a>
